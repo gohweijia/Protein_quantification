@@ -18,11 +18,11 @@ Copy .xlsx file to folder
 python3 BSA.py
 ```
 Enter name of file upon prompting
-```python
+```
 Enter file name (excluding '.xlsx'): test
 ```
 Change concentrations of standards if required
-```python
+```
 The default concentration values are [0, 20, 40, 60, 80, 100, 150, 200].
 To use a new set of values, enter space-separated concentration values. Otherwise, press enter.
 ```

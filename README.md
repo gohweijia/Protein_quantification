@@ -4,7 +4,7 @@ Quantifies BCA protein quantification assay results (.xlsx file) from Tecan Infi
 
 ## Data format
 Default protein standard concentrations: 
-0, 20, 40, 60, 80, 100, 150, 200
+0, 20, 40, 60, 80, 100, 150 and 200.
 
 Protein standards should be loaded at the leftmost and rightmost lanes. The concentrations can be altered, but there needs to be 8 standards. 
 

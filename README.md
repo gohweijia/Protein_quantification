@@ -1,5 +1,5 @@
 # Protein quantification
-Quantifies BCA protein quantification assay results (.xlsx file) from Tecan Infinite M200
+Quantification of BCA protein quantification assay results (.xlsx file) from Tecan Infinite M200
 
 
 ## Data format
